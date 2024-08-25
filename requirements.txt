@@ -1,0 +1,6 @@
+
+kivy==2.3.0
+opencv-python==4.10.0.84
+tensorflow==2.13.0
+numpy==1.7.0
+

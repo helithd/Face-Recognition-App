@@ -1,2 +1,2 @@
-# Face-Recognition-App
-Face Recognition App using Tensorflow and Kivy
+# Facial-Recognition-App
+python facial recognition app with Tensorflow and Kivy
